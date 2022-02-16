@@ -1,0 +1,5 @@
+from .auth_handlers import register_auth_handlers
+from .command_handlers import register_command_handlers
+from .home_handlers import register_home_handlers
+from .products_handlers import register_products_handlers
+from .cart_handlers import register_cart_handlers
