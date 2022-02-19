@@ -1,0 +1,32 @@
+#send-message-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.text-input {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-control {
+    width: 400px;
+}
+
+.bottom-buttons {
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+}
+
+.check-boxes {
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+}
+
+.form-check {
+    display: inline-block;
+}
